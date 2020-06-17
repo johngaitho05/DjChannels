@@ -106,3 +106,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*.pyc
+# other dirs
+/media
+/static
+Pipfile
+Pipfile.lock
